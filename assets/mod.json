@@ -1,7 +1,7 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
+  "name": "sstest",
+  "displayName": "test",
+  "author": "[#8738ff[]]sssim00[[]]",
   "description": "Gradle jar Mindustry mod template",
   "version": "0",
   "main": "sonnicon.modtemplate.ModTemplate",
